@@ -1,4 +1,4 @@
 # ARM_Scripts
 ----
 
-This repository has the scripts which we are using for installing WordPress and Moodle
+This repository contains the scripts which we are being used for installing WordPress and Moodle
